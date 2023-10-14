@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarlosDevB - Charly in other words 
 - 👀 I’m interested in ... Developing iOS apps and web applications
-- 🌱 I’m currently learning ... iOS, PHP & React
+- 🌱 I’m currently learning ... Express & Flutter.
 - 💞️ I’m looking to collaborate on ... -
 - 📫 How to reach me ... here DM
 
